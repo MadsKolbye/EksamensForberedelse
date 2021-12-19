@@ -1,0 +1,30 @@
+body{
+    background-color: teal;
+}
+
+#title{
+    font-size: 45px;
+    position: absolute;
+    left: 30%;
+    top: 9%;
+}
+
+#logo{
+    width: 250px;
+    height: 100px;
+}
+
+il{
+    font-size: 60px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#boss-div{
+    display:flex;
+}
+
+
+
