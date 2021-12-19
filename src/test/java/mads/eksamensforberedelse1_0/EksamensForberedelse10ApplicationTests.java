@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 class EksamensForberedelse10ApplicationTests {
-
+/*
     @Autowired
     BossRepository bossRepository;
 
@@ -54,4 +54,6 @@ class EksamensForberedelse10ApplicationTests {
         assertThat(bossRepository.existsById(49L)).isFalse();
     }
 
+
+ */
 }
